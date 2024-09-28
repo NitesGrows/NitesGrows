@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [ThEyoo] 👋
 
-<!--
-**NitesGrows/NitesGrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 💻 Passionate developer specializing in **C++**, **JavaScript**, and **TypeScript**.
+- 🌟 Turning ideas into high-performance applications.
+- 📚 Constantly learning and exploring new technologies.
+- 🚀 Open-source enthusiast and contributor.
 
-Here are some ideas to get you started:
+### Tech Stack
+- **Languages:** C++, JavaScript, TypeScript
+- **Frameworks:** Node.js, React, Express, EnetProtocol
+- **Tools:** Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+1. **[NitesGrowtopia](#)** -Growtopia Botting application
+
+### Let's Connect
+- [Discord](#)https://discord.gg/DvPMmYKQgc
+
+Feel free to check out my projects and contributions. Let's build something amazing together! 🚀
