@@ -1,4 +1,4 @@
-# Hi there, I'm [ThEyoo] 👋
+# Hi there, I'm Theyoo 👋
 
 ### About Me
 - 💻 Passionate developer specializing in **C++**, **JavaScript**, and **TypeScript**.
@@ -15,6 +15,6 @@
 1. **[NitesGrowtopia](#)** -Growtopia Botting application
 
 ### Let's Connect
-- [Discord](#)https://discord.gg/DvPMmYKQgc
+- [Discord](https://discord.gg/DvPMmYKQgc)
 
 Feel free to check out my projects and contributions. Let's build something amazing together! 🚀
