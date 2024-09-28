@@ -12,7 +12,7 @@
 - **Tools:** Git, VS Code
 
 ### Projects
-  **[NitesGrowtopia](#)** - Growtopia Botting application
+- **[NitesGrowtopia](#)** - Growtopia Botting application
 
 ### Let's Connect
 - [Discord](https://discord.gg/DvPMmYKQgc)
