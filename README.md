@@ -1,7 +1,7 @@
 # Hi there, I'm Theyoo 👋
 
 ### About Me
-- 💻 Passionate developer specializing in **C++**, **JavaScript**, and **TypeScript**.
+- 💻 Passionate developer specializing in **C++**, **JavaScript**.
 - 🌟 Turning ideas into high-performance applications.
 - 📚 Constantly learning and exploring new technologies.
 - 🚀 Open-source enthusiast and contributor.
