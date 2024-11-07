@@ -15,6 +15,6 @@
 - **[NitesGrowtopia](#)** - Growtopia Botting application
 
 ### Let's Connect
-- [Discord](https://discord.gg/DvPMmYKQgc)
+- [Discord](https://discord.gg/YDC3z234vu)
 
 Feel free to check out my projects and contributions. Let's build something amazing together! 🚀
